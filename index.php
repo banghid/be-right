@@ -42,11 +42,11 @@
         opacity: 0,
         duration: 800,
         easing: "easeOutExpo",
-        delay: 1000
+        delay: 800
     }).add({
         targets: '.centered-text-bigger',
         opacity: [0,1],
-        duration: 800,
+        duration: 1000,
         easing: "easeOutCirc",
         delay: 1000
     }).add({
