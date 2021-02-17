@@ -1,0 +1,49 @@
+.responsive {
+    width: 50%;
+    height: auto;
+}
+@font-face{
+    font-family: bebasNeue;
+    src: url(../font/BebasNeue-Regular.ttf);
+}
+
+.centered-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+}
+
+body{
+    background-image: url(../asset/paper-background.svg);
+}
+
+.centered-image-bigger {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+}
+
+.centered-text-bigger {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent; 
+    font-family: bebasNeue;
+}
+
+.centered-horizontal {
+    margin: 0;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
