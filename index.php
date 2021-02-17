@@ -40,7 +40,7 @@
     }).add({
         targets: '.centered-image',
         opacity: 0,
-        duration: 1000,
+        duration: 800,
         easing: "easeOutExpo",
         delay: 1000
     }).add({
