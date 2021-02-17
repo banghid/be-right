@@ -4,7 +4,7 @@
 }
 @font-face{
     font-family: bebasNeue;
-    src: url(../font/BebasNeue-Regular.ttf);
+    src: url(font/BebasNeue-Regular.ttf);
 }
 
 .centered-image {
@@ -17,7 +17,7 @@
 }
 
 body{
-    background-image: url(../asset/paper-background.svg);
+    background-image: url(asset/paper-background.svg);
 }
 
 .centered-image-bigger {
